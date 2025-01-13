@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.amigoscode</groupId>
-	<artifactId>graphQL</artifactId>
+	<artifactId>MediumGraphQL</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>GraphQL</name>
-	<description>Demo project for Spring Boot</description>
+	<description>GraphQl Connected to DB</description>
 	<url/>
 	<licenses>
 		<license/>
